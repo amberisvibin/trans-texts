@@ -9,3 +9,6 @@ Anthropy is a prominent trans game designer.
 
 File info:
 Only includes the first two chapters.
+
+Original:
+http://se4n.org/papers/anthropy.pdf
